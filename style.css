@@ -1,0 +1,36 @@
+.menu{
+
+    display : flex;
+    justify-content: space-between;
+    background-color: grey;
+    
+}
+.title{
+
+    display : flex;
+    justify-content: center;
+    background-color: chocolate;
+}
+
+.paragraph{
+
+display: flex;
+justify-content: center;
+background-color: chocolate;
+
+}
+
+.first{
+
+    display : flex;
+    justify-content: space-evenly;
+    background-color: lightblue;
+}
+
+.second{
+
+    display : flex;
+    justify-content: space-evenly;
+    background-color: lightblue;
+}
+
